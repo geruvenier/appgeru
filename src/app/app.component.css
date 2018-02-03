@@ -1,0 +1,21 @@
+.black {
+    background-color: rgb(14, 16, 160);
+    color: white;
+}
+.white {
+    background-color: rgba(219, 145, 8, 0.692);
+    color: blue;
+}
+.component2 {
+    background-color: black;
+    color: azure;
+    padding: 20px;
+}
+.btn {
+    padding: 20px;
+    background-color: brown;
+    color: azure;
+    display: block;
+    margin: 3px;
+
+}
